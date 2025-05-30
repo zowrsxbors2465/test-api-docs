@@ -1,5 +1,5 @@
 openapi: 3.0.0
 info:
-  title: Minimal API 4
+  title: Minimal API 5
   version: 1.0.0
 paths: {}
